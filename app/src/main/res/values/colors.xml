@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="primary_text_color">#000000</color>
+    <color name="secondary_text_color">#f50505</color>
+    <color name="background_color">#77B0AA</color>
+    <color name="primaryColor">#003C43</color>
+    <color name="border_color">#77B0AA</color> <!-- กำหนดสีของกรอบ -->
+</resources>

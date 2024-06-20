@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape xmlns:android="http://schemas.android.com/apk/res/android">
+    <solid android:color="#E3FEF7" /> <!-- สีพื้นหลังภายในกรอบเป็นสีขาว -->
+    <stroke
+        android:width="2dp"
+        android:color="@color/border_color" /> <!-- ความกว้างและสีของกรอบ -->
+    <corners android:radius="4dp" /> <!-- มุมโค้งของกรอบ -->
+</shape>
